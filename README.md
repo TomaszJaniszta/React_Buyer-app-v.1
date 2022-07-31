@@ -34,3 +34,5 @@ Right-clicking on a crossed-out element again causes it to go back as non-crosse
 http://localhost:3000
 
 https://github.com/TomaszJaniszta/React_Buyer-app-v.1/blob/main/Buyer-app1.PNG
+
+https://github.com/TomaszJaniszta/React_Buyer-app-v.1/blob/main/Buyer-app1eng.mkv
